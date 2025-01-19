@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryan-kesarwani&theme=tokyonight" alt="GitHub Streak" height="200" /></a>
+  <img src="https://streak-stats.demolab.com?user=aryan-kesarwani&theme=tokyonight" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-kesarwani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
